@@ -2,7 +2,7 @@
 
 Inventory Management Optimization is a Python tool designed to help businesses efficiently manage their stock levels. This script analyzes historical sales data, forecasts future demand, and provides recommendations for optimal inventory levels to reduce costs while avoiding stockouts.
 
-Features
+**Features**
 
 Demand Forecasting: Uses historical sales data to predict future demand using statistical or machine learning models.
 
@@ -14,7 +14,7 @@ Cost Analysis: Calculates holding costs, shortage costs, and total inventory cos
 
 Visualization: Provides graphs and charts to visualize trends, stock levels, and forecasts.
 
-Requirements
+**Requirements**
 
 Before running the script, you need to install the following Python dependencies:
 
